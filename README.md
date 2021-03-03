@@ -2,7 +2,7 @@
 
 ### Hello World! Welcome to my profile  <img style="margin: 0 auto" src="https://github.com/devmrcs/devmrcs/blob/master/gifs/coca-to-code.gif" height="50">
 
-I'm Mobile Developer and UI/UX designer enthusiast
+I'm Computer Scientist focused on Mobile Developer and UI/UX designer enthusiast
 
  - 💙 In love with Dart + Flutter
  - 🌎 I'm from Goiânia, Goiás, Brazil
